@@ -30,6 +30,6 @@ public class ArrayLoops {
 
         }
 
-        System.out.println("Test");
+        System.out.println("Tes");
     }
 }
