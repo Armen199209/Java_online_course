@@ -29,5 +29,7 @@ public class ArrayLoops {
             System.out.println(names[i]);
 
         }
+
+        System.out.println("Test");
     }
 }
