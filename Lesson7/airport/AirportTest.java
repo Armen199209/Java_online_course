@@ -13,22 +13,24 @@ public class AirportTest {
 
 
 
-//        System.out.println("--------------------------------------------------------------------------");
-//        service.printNameAndReleaseDate(plane);
-//        System.out.println("--------------------------------------------------------------------------");
-//        service.printNameOrHours(plane);
-//        System.out.println("--------------------------------------------------------------------------");
-//        System.out.println(service.nameOfPlaneWithBiggerTime(plane, plane1));
-//        System.out.println("--------------------------------------------------------------------------");
-//        service.returnTheLongerNameOfPlane(plane, plane1).printInfo();
-//        System.out.println("--------------------------------------------------------------------------");
-//        service.printPlanes(planes);
-//        System.out.println("--------------------------------------------------------------------------");
-//        service.printPlanesWhichReleaseAfter2010AnsMilitary(planes);
-//        System.out.println("--------------------------------------------------------------------------");
-//        service.returnMaxTimeSpentInAir(planes).printInfo();
-//        System.out.println("--------------------------------------------------------------------------");
+        System.out.println("--------------------------------------------------------------------------");
+        service.printNameAndReleaseDate(plane);
+        System.out.println("--------------------------------------------------------------------------");
+        service.printNameOrHours(plane);
+        System.out.println("--------------------------------------------------------------------------");
+        System.out.println(service.nameOfPlaneWithBiggerTime(plane, plane1));
+        System.out.println("--------------------------------------------------------------------------");
+        service.returnTheLongerNameOfPlane(plane, plane1).printInfo();
+        System.out.println("--------------------------------------------------------------------------");
+        service.printPlanes(planes);
+        System.out.println("--------------------------------------------------------------------------");
+        service.printPlanesWhichReleaseAfter2010AnsMilitary(planes);
+        System.out.println("--------------------------------------------------------------------------");
+        service.returnMaxTimeSpentInAir(planes).printInfo();
+        System.out.println("--------------------------------------------------------------------------");
         service.printTheOldestPlane(planes);
+        System.out.println("--------------------------------------------------------------------------");
+        service.printTheNewestMilitary(planes);
 
     }
 }
